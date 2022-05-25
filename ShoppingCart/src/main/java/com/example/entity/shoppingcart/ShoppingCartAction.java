@@ -1,5 +1,8 @@
 package com.example.entity.shoppingcart;
 
+import com.example.entity.shoppingcart.CartItem;
+import com.example.entity.shoppingcart.Product;
+
 import java.util.ArrayList;
 
 public interface ShoppingCartAction {

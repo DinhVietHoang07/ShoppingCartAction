@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class ShoppingCart {
 
-    private int userId; // ai đặt
+    private int userId;
     private String shipName;
     private String shipPhone;
     private String shipAddress;

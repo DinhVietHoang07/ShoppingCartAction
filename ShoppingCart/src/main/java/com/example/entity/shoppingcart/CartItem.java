@@ -1,6 +1,8 @@
 package com.example.entity.shoppingcart;
 
-public class CartItem {
+import javax.servlet.http.HttpServlet;
+
+public class CartItem extends HttpServlet {
     private int productId;
     private String productName;
     private String productThumbnail;
